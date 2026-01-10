@@ -1,0 +1,16 @@
+- Precisamos do chat log pra uma conversa
+
+3 pretas (P,M,G)
+2 off white (P,M)
+1 camel (M)
+1 mocha (M)
+
+
+Now the system work in two different manners. One is to see the model clothes on a certain color. I would like the ability to select the part of the clothes I wanted to wear as well. So basically mantain the current logic were we can see either on the model woman on a certain color or on the user on a certain color. But also I would like the option to choose the part of the clothes. Example:
+Flow:
+1. User uploads a photo of themselves.
+2. Select the clothe part: a biker jacket
+3. Select the color for the biker jacket (out of a set of clothes parts we will have)
+4. Select another clothe part for the bottom: a pants
+5. Select the color of the pants.
+6. Generate the image that will have an overlay in case they didnt input their contact info.

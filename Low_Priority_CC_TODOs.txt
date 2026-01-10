@@ -1,0 +1,64 @@
+# Leo
+- Fazer o job do payment plan e recurring + unit tests
+- Ensure we are responding to the client with the correct status. Specially when we revert or decline a transaction. Right now we are returning an approval, but thats wrong.
+
+
+
+-> Criar Builder pro Reversal
+-> Break down logic a bit more if possible
+-> Pro reversal, pode ser que a gnt não esteja salvando todos os dados necessários. A gnt precisa tentar montar o reversal corretamente e identificar o que falta salvar no banco
+-> Terminar fluxo de reversal (partial e full)
+-> Identificar se o refund é muito diferente do Authorization e se ele precisa de um novo endpoint só pra ele ou não.
+
+-> Ler cada item do UMF e ver se estamos usando eles corretamente.
+
+
+account_update table
+terminal_category_enum enum
+do we need merchant table here?
+review transactions table
+ask ai if we really should use the varchar numbers
+
+
+# Work on payology-credit-card repository
+- Remove anys
+- 
+- Finish all of the TODOs
+- Fix all unit tests
+
+- Finish reversal flows (this needs a super careful review because it depends on the previous transactions data)
+- Finish refund flows
+
+---
+
+- Desenvolver PTS files
+
+
+- Adicionar a validação que o Leo tem no db generation gh ci actions em todos os repos
+- Resolver problema que fica alterando o schema.sql só pra mim.
+- Adicionar os IPs no local-dev automáticos quando for windows
+
+
+----
+
+// TODO: Add missing fields to webhook payload
+
+// TODO: Confirm payment_result object interface
+// aci: this.determineACI(), // TODO: Implement this
+
+
+
+
+
+// TODO: Receive these fields and properly handle them
+
+// TODO: Create Job to Continuously Retry Pending Void Until Auth Exp Time
+
+// TODO: Understand if this is the correct reference_number or if we should use authRequest.id instead of payment.reference_id
+// TODO: Check if this should be the authRequest.id instead of payment.reference_id
+
+// TODO: Review the implementation of this field
+// TODO: Properly handle missing fields as stated in the sheet
+
+// TODO: Map missing fields from external services
+// TODO: Call paymentService.handleCreation with the correct parameters
