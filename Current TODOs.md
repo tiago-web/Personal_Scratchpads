@@ -79,6 +79,8 @@
 9. Terminar de arrumar script do export do meu cartão de credito
 10. Terminar de arrumar script do export do meus investimentos
 11. Copiar diagrama do Cerrado pra mim (adicionar outras categorias no diagrama como o F\&G Index pra crypto)
+12. Começar a fazer algum curso pra usar como day off na Check21 e me especializar mais em algo.
+13. Usar carteira pra acompanhar meus investimentos (Kinvo, investidor10, gorila, etc) + ter noção de cada parte da carteira bate os benchmarks (IFIX, IBOVA, CDI...)
 
 
 
