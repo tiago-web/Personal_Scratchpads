@@ -68,19 +68,17 @@
 
 ##### **Personal**
 
-1. Move this TODO list to google Drive or something else
-2. Upload all of my personal projects to GitHub including NobleLine ones and sheet ones
-3. Estudar aula de indicadores investidor sardinha (modulo extra)
-4. Arrumar segurança do meu gov
-5. Choose US ETFs for my portfolio
-6. Choose if I'm going to buy those 2 other stocks
-7. Sell any BUIDL left, check the pool I'd bought from Starter and the Trump's coin
-8. Get google drive link with Danilo
-9. Decide how I'm going to invest/store my crypto (considerar HOLD11)
-10. Definir um lugar pra guardar minhas senhas
-11. Terminar de arrumar script do export do meu cartão de credito
-12. Terminar de arrumar script do export do meus investimentos
-13. Copiar diagrama do Cerrado pra mim (adicionar outras categorias no diagrama como o F\&G Index pra crypto)
+1. Estudar aula de indicadores investidor sardinha (modulo extra)
+2. Arrumar segurança do meu gov
+3. Choose US ETFs for my portfolio
+4. Choose if I'm going to buy those 2 other stocks
+5. Sell any BUIDL left, check the pool I'd bought from Starter and the Trump's coin
+6. Get google drive link with Danilo
+7. Decide how I'm going to invest/store my crypto (considerar HOLD11)
+8. Definir um lugar pra guardar minhas senhas
+9. Terminar de arrumar script do export do meu cartão de credito
+10. Terminar de arrumar script do export do meus investimentos
+11. Copiar diagrama do Cerrado pra mim (adicionar outras categorias no diagrama como o F\&G Index pra crypto)
 
 
 
@@ -93,6 +91,8 @@
 * Define how I'm going to invest on the US markets
 * Get car document at despachante
 * Cortar cabelo
+* Move this TODO list to google Drive or something else
+* Upload all of my personal projects to GitHub including NobleLine ones and sheet ones
 
 ##### 
 
@@ -137,13 +137,12 @@
 
 
 
-Upload file
+##### **Other**
 
-try to edit sequence itself on grid
-
-Result:
-
-Cannot update/edit sequence if  vector not selected yet
+* Upload file
+* try to edit sequence itself on grid
+* Result:
+* Cannot update/edit sequence if  vector not selected yet
 
 
 
