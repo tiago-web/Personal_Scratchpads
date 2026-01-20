@@ -4,13 +4,13 @@
 
    * ###### 1
 
-2. ###### **Twist**
-
-   * ###### 1-2
-
-3. ###### **ADI**
+2. ###### **ADI**
 
    * ###### 1
+
+3. ###### **Twist**
+
+   * ###### 1-2
 
 4. ###### **NobleLine** 
 
@@ -106,7 +106,21 @@
 
 ##### **ADI**
 
-1. Start working on their tasks
+1. Finish Master Product
+2. Work on discount on deal level
+3. Reduce Wordpress delay when creating new deal (ZIP Code/Region/etc.) 
+4. Add new region fields to wordpress
+5. Add dashboard executivo, com visão de receita por curso, data e origem do lead
+6. Enable Inspire Installments option
+7. Fix issue with utm sources when lead comes from wordpress
+8. Automatically set logo on new inspire products are created
+9. Configurar campos obrigatórios por etapa, para manter o CRM organizado e previnir que o vendedor deixe de preencher alguma coisa
+10. Algumas automações simples (follow-up de leads/deals parados, pagamento pendente, etc.). Resolver os problemas:
+	- LEADs estão morrendo. Nao estão sendo tratados.
+	- DEALS estão se perdendo quando a pessoa não compra por alguma razão e depois não acontece um follow-up
+	- Muitos leads da Meta que estão se perdendo!
+11. Garantir que cursos presenciais, academy e eventos fiquem bem separados na estrutura
+12. Documento para o vendedor informando (Definição clara do pipeline padrão de vendas do ADI (etapas, regras de avanço e fechamento))
 
 **DONE**
 
